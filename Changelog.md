@@ -7,16 +7,24 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ## [Unreleased]
 
+## [0.0.1] - 2022-11-10
+
 ### Añadido
 - Pendiente de nuevas características
 
 ### Cambiado
-- Pendiente de cambios
+- Changelog Actualizado
 
 ### Corregido
 - Pendiente de correcciones
 
-## [0.1.0] - 2022-11-10
+### Borrado
+
+### Corregido
+
+### Seguridad
+
+## [0.0.0] - 2022-11-10
 
 ### Añadido
 - Commit inicial del proyecto
