@@ -24,6 +24,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 - Actualización inicial de la escena
 - Creación de prefabs para el proyecto
 - Update North Prefab - Actualización del prefab norte con mejoras
+- Se agrego el template de los pull requests
 
 ### Notas
 - Versión inicial del proyecto con la estructura base y los primeros prefabs configurados
