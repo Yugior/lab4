@@ -10,10 +10,14 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 ## [0.0.1] - 2022-11-10
 
 ### Añadido
+- Se añadieron pastillas
 - Pendiente de nuevas características
 
 ### Cambiado
+<<<<<<< HEAD
+- Se actualizo south-area
 - North-area prefab actalizado
+>>>>>>> 24e463901c2e734b22295abc9b6b1de39f705509
 - Changelog Actualizado
 
 ### Corregido
