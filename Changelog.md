@@ -13,6 +13,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 - Pendiente de nuevas características
 
 ### Cambiado
+- North-area prefab actalizado
 - Changelog Actualizado
 
 ### Corregido
