@@ -10,9 +10,11 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 ## [0.0.1] - 2022-11-10
 
 ### Añadido
+- Se añadieron pastillas
 - Pendiente de nuevas características
 
 ### Cambiado
+- Se actualizo south-area
 - Changelog Actualizado
 
 ### Corregido
