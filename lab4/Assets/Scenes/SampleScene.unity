@@ -1013,6 +1013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NorthArea
       objectReference: {fileID: 0}
+    - target: {fileID: 2134395211359526792, guid: 35a3474bb8d618c41b97e328ead9be3c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5181782673271066245, guid: 35a3474bb8d618c41b97e328ead9be3c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
