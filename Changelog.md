@@ -7,29 +7,32 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ## [Unreleased]
 
+## [0.0.1] - 2022-11-10
+
 ### Añadido
-- Pendiente de nuevas características
+- Se añadieron pastillas (2022-11-10)
+- se añadieron cilindros (2022-11-10)
 
 ### Cambiado
-- Pendiente de cambios
+- Se actualizo south-area (2022-11-10)
+- North-area prefab actalizado (2022-11-10)
+- Changelog Actualizado (2022-11-10)
 
-### Corregido
-- Pendiente de correcciones
 
-## [0.1.0] - 2022-11-10
+## [0.0.0] - 2022-11-10
 
 ### Añadido
-- Commit inicial del proyecto
-- Primer commit del proyecto
-- Actualización inicial de la escena
-- Creación de prefabs para el proyecto
-- Update North Prefab - Actualización del prefab norte con mejoras
-- Se agrego el template de los pull requests
+- Commit inicial del proyecto (2022-11-10)
+- Primer commit del proyecto (2022-11-10)
+- Actualización inicial de la escena (2022-11-10)
+- Creación de prefabs para el proyecto (2022-11-10)
+- Update North Prefab - Actualización del prefab norte con mejoras (2022-11-10)
+- Se agrego el template de los pull requests (2022-11-10)
 
 ### Notas
-- Versión inicial del proyecto con la estructura base y los primeros prefabs configurados
-- Se estableció la escena principal del proyecto
-- Se crearon los prefabs necesarios para el desarrollo
+- Versión inicial del proyecto con la estructura base y los primeros prefabs configurados (2022-11-10)
+- Se estableció la escena principal del proyecto (2022-11-10)
+- Se crearon los prefabs necesarios para el desarrollo (2022-11-10)
 
 ---
 
